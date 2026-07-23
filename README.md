@@ -200,6 +200,7 @@ print(f"Predicted Output for Input=16: {pred_actual.item():.2f}")
 
 ### New Sample Data Prediction
 Sample Input : 16
+
 Sample Output : 72.39494323730469
 
 ## RESULT
